@@ -1,3 +1,6 @@
+# Calcula a área do círculo
+# 4/1/2026
+
 pi = 3.14159
 
 
