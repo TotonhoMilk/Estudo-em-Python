@@ -20,4 +20,3 @@ if __name__ == "__main__":
     s = "This is, the way.  Another..."
     r = word_count(s)
     print(f"Total de {r} palavras")
-
